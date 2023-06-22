@@ -1,0 +1,19 @@
+h2{
+    background-color: green;
+    width: 50%;
+    height: 40px;
+}
+
+p{
+    background-color: #ccc;
+    
+     /*margin e padding*/
+    padding: 16px;
+    margin: 36px;
+
+    
+}
+
+#borda{
+    border: 5px solid black;
+}

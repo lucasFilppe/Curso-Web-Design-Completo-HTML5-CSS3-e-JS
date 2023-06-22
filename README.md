@@ -10,3 +10,9 @@ Webdesign/ Front-end Fundamentos.
 ### `Seção 2 - Introdução ao Css`
 
 - CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata) é uma linguagem de estilo (en-US) usada para descrever a apresentação de um documento escrito em HTML ou em XML (incluindo várias linguagens em XML como SVG, MathML ou XHTML). O CSS descreve como elementos são mostrados na tela, no papel, na fala ou em outras mídias.
+
+#### box model
+
+- Introdução ao modelo básico de caixa do CSS
+
+- Ao fazer o layout de um documento, o mecanismo de renderização do navegador representa cada elemento como uma caixa retangular de acordo com o modelo básico de caixa CSS padrão . O CSS determina o tamanho, a posição e as propriedades (cor, plano de fundo, tamanho da borda etc.) dessas caixas.Cada caixa é composta por quatro partes (ou áreas ), definidas por suas respectivas arestas: aresta do conteúdo , aresta do preenchimento , aresta da borda e aresta da margem[BOX MODEL](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model) 
