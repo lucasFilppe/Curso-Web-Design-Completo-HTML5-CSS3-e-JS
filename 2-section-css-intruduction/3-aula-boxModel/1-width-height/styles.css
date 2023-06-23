@@ -17,3 +17,7 @@ p{
 #borda{
     border: 5px solid black;
 }
+
+#outiline{
+    outline: 5px dashed red;
+}

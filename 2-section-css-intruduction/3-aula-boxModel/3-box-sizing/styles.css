@@ -1,0 +1,14 @@
+p{
+    background-color: #ccc;
+    width: 500px;
+}
+
+#p2{
+    padding: 25px;
+}
+
+#p4{
+    padding: 25px;
+    border: 5px solid red;
+    box-sizing: border-box;
+}

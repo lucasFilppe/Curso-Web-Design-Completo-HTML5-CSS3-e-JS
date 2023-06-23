@@ -15,4 +15,11 @@ Webdesign/ Front-end Fundamentos.
 
 - Introdução ao modelo básico de caixa do CSS
 
-- Ao fazer o layout de um documento, o mecanismo de renderização do navegador representa cada elemento como uma caixa retangular de acordo com o modelo básico de caixa CSS padrão . O CSS determina o tamanho, a posição e as propriedades (cor, plano de fundo, tamanho da borda etc.) dessas caixas.Cada caixa é composta por quatro partes (ou áreas ), definidas por suas respectivas arestas: aresta do conteúdo , aresta do preenchimento , aresta da borda e aresta da margem[BOX MODEL](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model) 
+- Ao fazer o layout de um documento, o mecanismo de renderização do navegador representa cada elemento como uma caixa retangular de acordo com o modelo básico de caixa CSS padrão . O CSS determina o tamanho, a posição e as propriedades (cor, plano de fundo, tamanho da borda etc.) dessas caixas.Cada caixa é composta por quatro partes (ou áreas ), definidas por suas respectivas arestas: aresta do conteúdo , aresta do preenchimento , aresta da borda e aresta da margem[BOX MODEL](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model)
+
+- outiline: A propriedade abreviada CSS define a maioria das propriedades de contorno em uma única declaração.
+
+- margin-auto: Você pode definir a propriedade margin para autocentralizar horizontalmente o elemento em seu contêiner.
+O elemento ocupará a largura especificada e o espaço restante será dividido igualmente entre as margens esquerda e direita.
+
+-box-sizing: A propriedade CSS define como a largura e a altura totais de um elemento são calculadas.[box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)

@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: yellow;
+    width: 200px;
+    margin-left: auto;/*auto: pega o espaço que sobra*/
+    margin-right: auto;
+}
